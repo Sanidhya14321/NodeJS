@@ -1,0 +1,21 @@
+{
+  "name": "sanid-pachage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "sanidhya",
+  "license": "ISC",
+  "description": "the best package",
+  "repository": {
+    "type": "git",
+    "url": "github.com"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
